@@ -1,7 +1,7 @@
 //deklarasi library
 #include <iostream>
 using namespace std;
-
+//second commit
 
 //progres utama
 int main()

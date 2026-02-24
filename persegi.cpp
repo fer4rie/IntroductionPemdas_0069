@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//commit2
 int main()
 {//start
     float p, l, luas;
@@ -15,4 +15,5 @@ int main()
     luas = p*l;
     //langkah 5 : 
     cout << "Hasilnya = " << luas ;
+
 }//selesai
